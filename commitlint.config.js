@@ -1,2 +1,2 @@
-/* eslint-disable no-new */
-module.exports = {extends: ['@commitlint/config-conventional']}
+/* eslint-disable */
+module.exports = { extends: ['@commitlint/config-conventional'] }
